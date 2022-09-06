@@ -4,3 +4,8 @@
 In this Power BI case study, we explore a real-world job posting dataset to uncover insights for a fictional recruitment company called DataSearch. We use Power Query to investigate and clean the data to find out what skills are most in-demand for data scientists, data analysts, and data engineers. We then use DAX to build insightful visualizations of our findings. Finally, we bring it all together using everything Power BI has to offer to create a business dashboard so that we can answer questions for the DataSearch team.
 
 This is a case study by [Datacamp.com](https://app.datacamp.com/learn/courses/case-study-analyzing-job-market-data-in-power-bi)
+
+## [Investigating Netflix Movies](https://app.datacamp.com/learn/projects/entertainment-data)
+In this project, we apply the skills we learned in the Datacamp.com Intermediate Python course to solve a real-world data science problem. We discover if Netflix’s movies are getting shorter over time, using everything from lists and loops to pandas and matplotlib.
+
+With this guided project we gain experience in an essential data science skill — exploratory data analysis. This will allow us to perform critical tasks such as manipulating raw data and drawing conclusions from plots we create of the data.
