@@ -9,3 +9,8 @@ In this project, we apply the skills we learned in the Datacamp.com Intermediate
 ## [The Android App Market on Google Play](https://github.com/MarcoStallmann/Data-Science-and-Business-Analytics/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)
 
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
+
+## [A Visual History of Nobel Prize Winners](https://github.com/MarcoStallmann/Data-Science-and-Business-Analytics/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
+
+The Nobel Prize is perhaps the world's most well known scientific award.  What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? In this guided project, we use our data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners. The dataset is from The Nobel Foundation on Kaggle. 
+
