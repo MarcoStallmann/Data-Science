@@ -14,3 +14,7 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 
 The Nobel Prize is perhaps the world's most well known scientific award.  What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? In this guided project, we use our data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners. The dataset is from The Nobel Foundation on Kaggle. 
 
+## [HR Analytics in Power BI](https://github.com/MarcoStallmann/Data-Science-and-Business-Analytics/tree/main/HR%20Analytics%20in%20Power%20BI)
+
+In this case study, we are exploring a dataset for a fictitious software company called Atlas Labs. We import, analyze and visualize Human Resources data in Power BI. We carry out exploratory data analysis and use DAX to help build powerful visualizations. We finish our analysis by diving deeper into attrition and what factors impact attrition. This analysis will help the organization determine what action they will need to take to retain more employees. We’ll finalize the case study by making design changes to our report that provides a clean, branded design.
+
