@@ -10,13 +10,15 @@ In this case study, we are exploring a dataset for a fictitious software company
 ## [Analyzing Job Market Data in Power BI](https://github.com/MarcoStallmann/Data-Science/tree/main/Analyzing%20Job%20Market%20Data%20in%20Power%20BI)
 In this Power BI case study we explore a real-world job posting dataset to uncover insights for a fictional recruitment company called DataSearch. We use Power Query to investigate and clean the data to find out what skills are most in-demand for data scientists, data analysts, and data engineers. We then use DAX to build insightful visualizations of our findings. Finally, we bring it all together using everything Power BI has to offer to create a business dashboard so that we can answer questions for the DataSearch team.
 
+[View in Microsoft Power BI Community Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-Job-Market-Data-in-Power-BI/m-p/2825939)
+
 
 ## [The Android App Market on Google Play](https://github.com/MarcoStallmann/Data-Science-and-Business-Analytics/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)
 
-Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
+Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook (Python), we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
 
 
 ## [A Visual History of Nobel Prize Winners](https://github.com/MarcoStallmann/Data-Science-and-Business-Analytics/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
-The Nobel Prize is perhaps the world's most well known scientific award.  What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? In this guided project, we use our data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners. The dataset is from The Nobel Foundation on Kaggle. 
+The Nobel Prize is perhaps the world's most well known scientific award.  What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? In this guided project, we use Python data manipulation and visualization techniques to explore patterns and trends over 100 years worth of Nobel Prize winners. The dataset is from The Nobel Foundation on Kaggle. 
 
