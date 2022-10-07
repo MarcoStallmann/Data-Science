@@ -1,4 +1,4 @@
-# Data Science
+# Data Science and Business Analytics
 
 ## [HR Analytics in Power BI](https://github.com/MarcoStallmann/Data-Science-and-Business-Analytics/tree/main/HR%20Analytics%20in%20Power%20BI)
 
